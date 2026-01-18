@@ -6,9 +6,13 @@ jika aliennya ada tiga atau empat yang tidak dikenain kamu akan kalah dan harus 
 
 Versi:
 sesuatu_shooter1.py
+
 sesuatu_shooter2.py
+
 sesuatu_shooter3.py
+
 sesuatu_shooter4.py
+
 sesuatu_shooter5.py
 
 Note tambahan:
